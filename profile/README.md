@@ -1,3 +1,5 @@
+![Accudote Logo](./accudoteai.png)
+
 # 👋 Welcome to AccudoteAI
 
 ## What We're About
